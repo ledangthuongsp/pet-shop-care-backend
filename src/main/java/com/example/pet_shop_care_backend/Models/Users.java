@@ -15,4 +15,6 @@ public class Users {
     private LocalDate dayOfBirth;
     private String fullName;
     private String phoneNumber;
+    private String avatarUrl;
+    private String personalId;
 }
